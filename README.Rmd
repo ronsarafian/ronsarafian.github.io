@@ -1,11 +1,5 @@
----
-title: "Ron Sarafian"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# Ron Sarafian
 
 Ph.D. student at Dept. of Industrial Engineering at Ben Gurion University, 
 Supervised by [Dr Jonathan Rosenblatt](http://www.john-ros.com/) and [Prof Itai Kloog](http://in.bgu.ac.il/en/humsos/geog/Pages/staff/kloog.aspx). 
