@@ -1,7 +1,3 @@
----
-title: "Ron Sarafian"
-output: html_document
----
 
 # Ron Sarafian
 
