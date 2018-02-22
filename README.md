@@ -56,11 +56,23 @@ More cool stuff including some tutorials i wrote can be found in my [Rpub page](
 </table>
 
 
+# Education
+
+2017 - Now $\ \quad$ Ph.D. student, Ben-Gurion University of the Negev
+
+2014 - 2016 $\quad$  MA. Economics, expertise in applied econometrics, The Hebrew University of Jerusalem
+  
+  $\quad$ - Thesis: Empirical estimation of government R&D policy with Machine Learning tools.
+  $\quad$ - Advisor: Prof Shaol Lach
+
+2011 - 2014 $\quad$ BA. Economics (summa cum laude), Ben-Gurion University of the Negev
+
+
 ## Work Experience
 
-2016 - 2017 Freelance, R programing and statistical consultation.
+2016 - 2017 $\quad$ Freelance, R programing and statistical consultation.
 
-2014 - 2016 Data analysit, Research Unit, Israel Innovation Authority.
+2014 - 2016 $\quad$ Data analysit, Research Unit, Israel Innovation Authority.
 
-2012 - 2014 Teaching Assistant, Statistics, Ben-Gurion University of the Negev
+2012 - 2014 $\quad$ Teaching Assistant, Statistics, Ben-Gurion University of the Negev
 
