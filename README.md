@@ -24,27 +24,45 @@ More cool stuff including some tutorials i wrote can be found in my [Rpub page](
 
 ## Education
 
-<table>
-  <tr>
-    <th>Month</th>
-    <th>Savings</th>
-  </tr>
-  <tr>
-    <td>January</td>
-    <td>$100</td>
-  </tr>
-</table>
+            <table border="0">
 
-2017 - Now  Ph.D. student, Ben-Gurion University of the Negev
+                </tr>-->
+                <tr class="table_item">
+                    <td class="table_date">2017 - Now</td>
+                    <td class="table_title">Ph.D. student, Ben-Gurion University of the Negev, Department of Industrial Engineering</td>
+                    <td rowspan="2" class="table_img"><img src="images/bgu.png"></td>
+                </tr>
 
-2014 - 2016 MA. Economics (expertise in applied econometrics), The Hebrew University of Jerusalem
-    + Thesis: Empirical estimation of government R&D policy with Machine Learning tools.
-    + Advisor: Prof Shaol Lach
+                <tr class="table_item">
+                    <td class="table_date">2014 - 2016</td>
+                    <td class="table_title">MA. Economics (expertise in applied econometrics), The Hebrew University of Jerusalem</td>
+                    <td rowspan="2" class="table_img"><img src="images/HUJI.png" /></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td class="table_desc">Thesis: Empirical estimation of government R&D policy with Machine Learning tools.</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td class="table_desc">Advisor: Prof Shaol Lach</td>
+                </tr>
 
-2011 - 2014 BA. Economics (summa cum laude), Ben-Gurion University of the Negev
+                <tr class="table_item">
+                    <td class="table_date">2011 - 2014</td>
+                    <td class="table_title">BA. Economics, Ben-Gurion University of the Negev</td>
+                    <td rowspan="2" class="table_img"><img src="images/bgu.png" width="100px"></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td class="table_desc">(summa cum laude)</td>
+                </tr>
+
+            </table>
 
 
-## Experience
+
+
+## Work Experience
 
 2016 - 2017 Freelance, R programing and statistical consultation.
 2014 - 2016 Data analysit, Research Unit, Israel Innovation Authority.
