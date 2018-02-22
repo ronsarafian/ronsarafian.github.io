@@ -24,6 +24,17 @@ More cool stuff including some tutorials i wrote can be found in my [Rpub page](
 
 ## Education
 
+<table>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+</table>
+
 2017 - Now  Ph.D. student, Ben-Gurion University of the Negev
 
 2014 - 2016 MA. Economics (expertise in applied econometrics), The Hebrew University of Jerusalem
