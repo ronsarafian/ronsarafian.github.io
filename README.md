@@ -14,15 +14,15 @@ I am interested in solving both theoretical and real-world problems related to:
 - Multivariate statistics
 - Distributed Machine Learning
 
-
-# Projects
+--------------
+## Projects
 
 check my [Github page](https://github.com/ronsarafian) for projects in progress.
 
 More cool stuff including some tutorials i wrote can be found in my [Rpub page](http://rpubs.com/ronsar)
 
-
-# Education
+--------------
+## Education
 
 2017 - Now  Ph.D. student, Ben-Gurion University of the Negev
 
@@ -32,8 +32,8 @@ More cool stuff including some tutorials i wrote can be found in my [Rpub page](
 
 2011 - 2014 BA. Economics (summa cum laude), Ben-Gurion University of the Negev
 
-
-# Experience
+--------------
+## Experience
 
 2016 - 2017 Freelance, R programing and statistical consultation.
 2014 - 2016 Data analysit, Research Unit, Israel Innovation Authority.
