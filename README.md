@@ -1,6 +1,6 @@
 # Ron Sarafian
 
-Ph.D. student at Dept. of Industrial Engineering at Ben Gurion University.
+I am a Ph.D. student at Dept. of Industrial Engineering at Ben Gurion University.
 
 Supervised by [Dr Jonathan Rosenblatt](http://www.john-ros.com/) and [Prof Itai Kloog](http://in.bgu.ac.il/en/humsos/geog/Pages/staff/kloog.aspx). 
 
@@ -21,7 +21,7 @@ I am interested in solving both theoretical and real-world problems related to:
 <div class = "row">
 <div class = "col-md-8">
 
-Studying the effects of air-pollution on health is a key area in environmental epidemiology. An accurate estimation of air-pollution effects requires spatio-temporally resolved datasets of air-pollution, especially, Fine \emph{Particulate Matter} (PM). Satellite-based technology has greatly enhanced the ability to provide PM assessments in locations where direct measurement is impossible using Machine learning algorithms.
+Studying the effects of air-pollution on health is a key area in environmental epidemiology. An accurate estimation of air-pollution effects requires spatio-temporally resolved datasets of air-pollution, especially, fine Particulate Matter (PM). Satellite-based technology has greatly enhanced the ability to provide PM assessments in locations where direct measurement is impossible using Machine learning algorithms.
 
 </div>
 <div class = "col-md-4">
