@@ -25,7 +25,9 @@ Studying the effects of air-pollution on health is a key area in environmental e
 
 </div>
 <div class = "col-md-4">
-![](images/pm.gif)
+
+<IMG SRC="images/pm.gif">
+
 </div>
 </div>
 
