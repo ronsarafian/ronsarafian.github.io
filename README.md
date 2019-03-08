@@ -44,3 +44,11 @@ Most model validation techniques, such as cross-validation (CV), require indepen
 
 Sarafian, R, Kloog, I, Just,A, Rosenblatt, J.D, 2019. Gaussian Markov Random Fields versus Linear Mixed Models for satellite-based PM2.5 assessment: Evidence from the Northeastern USA. *Atmospheric Environment*
 
+## Contact information
+
+<p>
+Dept. of Industrial Engineering and Management,<br />
+Ben Gurion University of the Negev, Israel.<br />
+P.O. 653, Beer Sheva, 84105<br />
+Mail: ronsar at post.bgu.ac.il<br />
+</p>
